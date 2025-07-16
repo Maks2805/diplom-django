@@ -1,0 +1,18 @@
+<views.py>
+
+from django.shortcuts import render
+
+def index(request):
+    return render(request, "index.html")
+
+
+<urls.py>
+
+ from django.contrib import admin
+from django.urls import path
+from hi import views
+
+urlpatterns = [
+    path('', views.index),
+]
+ 
