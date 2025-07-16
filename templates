@@ -1,0 +1,17 @@
+<index.html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Тема дипломной "Маркетплейс"</h1>
+
+    <p>Суть дипломной заключается в том, что яи напишу код про маркетплейс,
+        где пользователь будет регистрироваться, авторизораватья, ложить в корзину товары и их оплачивать. 
+    </p>
+</body>
+</html>
